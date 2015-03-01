@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="vgxTelnet.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="svr1adr" GenerateDefaultValueInCode="false" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dxc.jg1vgx.net</Value>
+    </Setting>
+    <Setting Name="svr2adr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ccc.jg1vgx.net</Value>
+    </Setting>
+    <Setting Name="svr3adr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dxc.ae3n.us</Value>
+    </Setting>
+    <Setting Name="svr4adr" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="svr5adr" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="svr1port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7300</Value>
+    </Setting>
+    <Setting Name="svr2port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7373</Value>
+    </Setting>
+    <Setting Name="svr3port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">7300</Value>
+    </Setting>
+    <Setting Name="svr4port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="svr5port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="svr" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="fColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Khaki</Value>
+    </Setting>
+    <Setting Name="bColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkSlateGray</Value>
+    </Setting>
+    <Setting Name="fFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Consolas, 11pt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

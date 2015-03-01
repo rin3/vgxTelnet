@@ -1,0 +1,30 @@
+C:\Users\Administrator.sparrow\documents\visual studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.exe
+C:\Users\Administrator.sparrow\documents\visual studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.pdb
+C:\Users\Administrator.sparrow\documents\visual studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.Form1.resources
+C:\Users\Administrator.sparrow\documents\visual studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.csproj.GenerateResource.Cache
+C:\Users\Administrator.sparrow\documents\visual studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.exe
+C:\Users\Administrator.sparrow\documents\visual studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.pdb
+C:\Users\Administrator.sparrow\documents\visual studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.AboutBox1.resources
+C:\Users\Administrator.sparrow\Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.Properties.Resources.resources
+C:\Users\Administrator.sparrow\Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.exe.manifest
+C:\Users\Administrator.sparrow\Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.application
+C:\Users\Administrator.sparrow\Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.Form2.resources
+C:\Users\Administrator.sparrow\Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.exe.manifest
+C:\Users\Administrator.sparrow\Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.application
+C:\Users\Administrator.sparrow\documents\visual studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.exe.config
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.AboutBox1.resources
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.Form1.resources
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.Form2.resources
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.Properties.Resources.resources
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.exe
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.pdb
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.exe.config
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.exe.manifest
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.application
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.exe
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\bin\Release\vgxTelnet.pdb
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.exe.manifest
+C:\Documents and Settings\rin\My Documents\Visual Studio 2010\Projects\vgxTelnet\vgxTelnet\obj\x86\Release\vgxTelnet.application
